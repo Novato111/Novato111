@@ -1,92 +1,41 @@
-# Sunny Sarje
+<h1 align="center">Sunny Sarje</h1>
 
-Backend & Distributed Systems Engineer focused on AI infrastructure, scalable systems, backend platforms, and production-grade developer tooling.
+<h3 align="center">
+Backend • Distributed Systems • AI Infrastructure • Developer Platforms
+</h3>
 
-Currently pursuing a Master of Computer Applications (MCA) at VIT Chennai while building real-world systems using Go, Python, Kafka, Redis, FastAPI, Docker, and modern AI tooling.
-
----
-
-# About Me
-
-I enjoy building systems that operate under real-world constraints — concurrency, scalability, latency, reliability, and developer experience.
-
-My interests primarily revolve around:
-
-* Distributed Systems
-* Backend Engineering
-* AI Infrastructure
-* Event-Driven Architectures
-* System Design
-* Developer Platforms
-* High-Performance APIs
-* Web3 & Blockchain Systems
-
-I like working on products that combine infrastructure engineering with practical user impact.
+<p align="center">
+Building scalable backend systems, AI-powered platforms, and distributed infrastructure.
+</p>
 
 ---
 
-# Tech Stack
+## About Me
 
-## Languages
+I’m an MCA student at VIT Chennai focused on backend engineering, distributed systems, AI infrastructure, and scalable developer tooling.
 
-* Go
-* Python
-* Java
-* TypeScript
-* JavaScript
-* C++
-* SQL
+I enjoy building systems that deal with:
 
-## Backend & Infrastructure
+* concurrency
+* scalability
+* reliability
+* low latency
+* distributed workloads
+* production deployment
 
-* FastAPI
-* Node.js
-* Apache Kafka
-* Redis
-* Docker
-* Kubernetes
-* PostgreSQL
-* REST APIs
-* Linux
-* CI/CD
-
-## Frontend
-
-* React
-* Next.js
-* Tailwind CSS
-* TypeScript
-* Storybook
-* React Hook Form
-
-## AI / ML
-
-* OpenAI APIs
-* Gemini API
-* RAG Pipelines
-* AI Agents
-* Prompt Engineering
-* LLM Applications
-
-## Cloud & DevOps
-
-* AWS
-* Docker Compose
-* GitHub Actions
-* Supabase
-* Git
+My work primarily revolves around backend platforms, event-driven systems, AI-powered workflows, and high-performance APIs.
 
 ---
 
-# Experience
+## Experience
 
-## Software Development Engineer Intern — Arya.ai
+### Software Development Engineer Intern — Arya.ai
 
 **Feb 2025 – May 2025**
 
 Worked on distributed AI infrastructure and internal tooling systems.
 
-### Key Contributions
+#### Key Contributions
 
 * Built backend connector services using FastAPI integrating AWS S3 and SQL-based enterprise data sources into distributed AI processing pipelines.
 
@@ -102,41 +51,68 @@ Worked on distributed AI infrastructure and internal tooling systems.
 
 ---
 
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,python,java,cpp,ts,js" />
+</p>
+
+## Backend & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,kubernetes,postgres,redis,kafka,linux" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript" />
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,github,git" />
+</p>
+
+## AI / ML
+
+* OpenAI APIs
+* Gemini API
+* RAG Pipelines
+* AI Agents
+* Prompt Engineering
+* LLM Applications
+
+---
+
 # Featured Projects
 
 ## Distributed Logistics Optimizer
 
 ### Python • FastAPI • Redis • PostgreSQL • Docker
 
-GitHub: [https://github.com/Novato111/distributed-logistics-optimizer](https://github.com/Novato111/distributed-logistics-optimizer)
+🔗 [https://github.com/Novato111/distributed-logistics-optimizer](https://github.com/Novato111/distributed-logistics-optimizer)
 
-A distributed systems project focused on asynchronous workload orchestration and scalable task execution.
+A distributed systems project focused on asynchronous task orchestration and scalable worker execution.
 
-### What It Does
+### Highlights
 
-The platform simulates large-scale logistics optimization workflows where route calculations and optimization tasks are processed asynchronously using distributed workers.
-
-### Engineering Highlights
-
-* Architected a distributed routing engine using FastAPI + Redis with producer-consumer queue patterns.
+* Architected a distributed routing engine using FastAPI + Redis producer-consumer patterns.
 
 * Enabled asynchronous handling of 1000+ concurrent job requests under simulated load.
 
-* Reduced API response latency by ~70% by offloading compute-intensive workloads to background workers.
+* Reduced API response latency by ~70% by offloading compute-intensive optimization tasks to background workers.
 
-* Designed a PostgreSQL-backed task queue with indexed queries achieving sub-100ms retrieval latency.
+* Designed a PostgreSQL-backed task queue achieving sub-100ms retrieval latency under concurrent workloads.
 
-* Built Docker Compose-based multi-worker infrastructure improving throughput by ~3x in simulated high-load environments.
+* Built Docker Compose-based multi-worker infrastructure improving throughput by ~3x.
 
-### Concepts Explored
+### Concepts
 
-* Distributed task orchestration
-* Background workers
-* Queue systems
-* Fault isolation
-* Concurrency
-* Scalable API design
-* Worker coordination
+`Distributed Systems` `Concurrency` `Queues` `Worker Architecture` `Scalable APIs`
 
 ---
 
@@ -144,34 +120,25 @@ The platform simulates large-scale logistics optimization workflows where route 
 
 ### Go • libvips • Next.js • Docker • REST APIs
 
-Live: [https://heictojpgconverter.app](https://heictojpgconverter.app)
+🌐 [https://heictojpgconverter.app](https://heictojpgconverter.app)
 
 A high-performance image conversion platform designed around low-memory processing and privacy-focused architecture.
 
-### What It Does
-
-The platform converts HEIC images into multiple formats including JPG, PNG, JPEG, and PDF while optimizing memory usage and conversion speed.
-
-### Engineering Highlights
+### Highlights
 
 * Built a high-performance image-processing backend in Go using libvips.
 
-* Designed in-memory image conversion workflows without persistent file storage to improve user privacy and minimize storage overhead.
+* Implemented in-memory processing workflows without persistent file storage to improve privacy and reduce storage overhead.
 
 * Optimized processing pipelines for concurrent uploads and low-latency transformations.
 
-* Deployed the platform publicly generating organic traffic and serving 500+ users with 2.4K+ tracked events.
+* Publicly deployed platform serving 500+ users with 2.4K+ tracked events through organic traffic.
 
-* Implemented Dockerized deployment workflows for production-ready deployment.
+* Implemented Dockerized deployment workflows for production-ready infrastructure.
 
-### Concepts Explored
+### Concepts
 
-* Concurrent request handling
-* Memory optimization
-* Stateless architecture
-* Image processing systems
-* Backend performance engineering
-* Production deployment
+`Go` `Concurrent Processing` `Memory Optimization` `Stateless Architecture` `Backend Performance`
 
 ---
 
@@ -179,32 +146,23 @@ The platform converts HEIC images into multiple formats including JPG, PNG, JPEG
 
 ### TypeScript • Node.js • Apache Kafka • Next.js • LLM/RAG
 
-GitHub: [https://github.com/Novato111/incident-ai-platform](https://github.com/Novato111/incident-ai-platform)
+🔗 [https://github.com/Novato111/incident-ai-platform](https://github.com/Novato111/incident-ai-platform)
 
 A real-time AI-powered incident monitoring platform designed for distributed environments.
 
-### What It Does
+### Highlights
 
-The platform ingests distributed events from services, correlates anomalies, and uses LLM-powered workflows to generate contextual operational insights.
-
-### Engineering Highlights
-
-* Built a real-time event-driven architecture using Apache Kafka for high-throughput distributed event ingestion.
+* Built a real-time event-driven architecture using Apache Kafka for distributed event ingestion.
 
 * Integrated an LLM-based RAG engine for automated anomaly diagnosis and contextual incident analysis.
 
-* Designed scalable O(log n) event-correlation pipelines for efficient event matching.
+* Designed scalable O(log n) event-correlation pipelines for efficient anomaly detection.
 
 * Built AI-assisted operational workflows leveraging prompt engineering and autonomous AI agent experimentation.
 
-### Concepts Explored
+### Concepts
 
-* Event-driven systems
-* Streaming architectures
-* Kafka consumers/producers
-* AI-assisted observability
-* RAG systems
-* Distributed event correlation
+`Kafka` `Streaming Systems` `RAG Pipelines` `Event-Driven Architecture` `AI Observability`
 
 ---
 
@@ -212,31 +170,23 @@ The platform ingests distributed events from services, correlates anomalies, and
 
 ### Next.js 15 • Supabase • Tailwind CSS • Canvas API
 
-Live: [https://system-design-labs.vercel.app](https://system-design-labs.vercel.app)
+🌐 [https://system-design-labs.vercel.app](https://system-design-labs.vercel.app)
 
-An interactive system design visualization platform for experimenting with distributed architectures.
+An interactive distributed systems visualization platform for experimenting with scalable architectures.
 
-### What It Does
-
-The platform allows users to visually design distributed systems and simulate architectural bottlenecks and SPOFs.
-
-### Engineering Highlights
+### Highlights
 
 * Built a visual distributed architecture simulation platform using Canvas APIs.
 
-* Implemented simulation support for SPOF and bottleneck detection.
+* Implemented SPOF and bottleneck detection workflows.
 
 * Added real-time persistence and collaborative editing using Supabase.
 
-* Built concurrent multi-user workflows with synchronization and conflict resolution.
+* Built concurrent multi-user synchronization and conflict-resolution workflows.
 
-### Concepts Explored
+### Concepts
 
-* Distributed architecture visualization
-* Real-time synchronization
-* Collaborative systems
-* Simulation engines
-* Frontend systems engineering
+`System Design` `Real-Time Collaboration` `Simulation Systems` `Frontend Engineering`
 
 ---
 
@@ -244,15 +194,11 @@ The platform allows users to visually design distributed systems and simulate ar
 
 ### Next.js • Python • PostgreSQL • AWS • Docker
 
-Live: [https://ai-resume-buidler.vercel.app](https://ai-resume-buidler.vercel.app)
+🌐 [https://ai-resume-buidler.vercel.app](https://ai-resume-buidler.vercel.app)
 
-A SaaS platform for AI-assisted resume generation.
+An AI-powered SaaS platform for ATS-friendly resume generation.
 
-### What It Does
-
-The platform generates ATS-friendly resumes using structured AI workflows and schema-validated generation pipelines.
-
-### Engineering Highlights
+### Highlights
 
 * Built and deployed the platform using AWS, Docker, PostgreSQL, and Gemini API integrations.
 
@@ -260,21 +206,15 @@ The platform generates ATS-friendly resumes using structured AI workflows and sc
 
 * Built scalable PostgreSQL schemas for concurrent multi-user sessions.
 
-* Focused on responsive UI/UX workflows and production deployment.
+### Concepts
 
-### Concepts Explored
-
-* AI-assisted generation systems
-* SaaS architecture
-* Prompt engineering
-* Concurrent database workflows
-* Cloud deployment
+`SaaS Architecture` `AI Workflows` `Cloud Deployment` `Full Stack Systems`
 
 ---
 
 # Blockchain & Web3
 
-I have hands-on exposure to:
+Hands-on exposure to:
 
 * Bitcoin
 * Ethereum
@@ -283,11 +223,11 @@ I have hands-on exposure to:
 * DeFi Protocols
 * NFT Ecosystems
 * On-chain Systems
-* Ledger Architecture
 * Smart Contract Concepts
-* Market Cycles & Tokenomics
+* Ledger Architecture
+* Tokenomics & Market Cycles
 
-I’m particularly interested in backend infrastructure and scalable systems for blockchain applications.
+Interested in backend infrastructure and scalable systems for blockchain applications.
 
 ---
 
@@ -314,11 +254,15 @@ I’m particularly interested in backend infrastructure and scalable systems for
 
 # Connect
 
-* Portfolio: [https://aboutme-4ld9.vercel.app](https://aboutme-4ld9.vercel.app)
-* LinkedIn: [https://linkedin.com/in/sunny-sarje-315344173](https://linkedin.com/in/sunny-sarje-315344173)
-* GitHub: [https://github.com/Novato111](https://github.com/Novato111)
-* Email: [sunnysarje@gmail.com](mailto:sunnysarje@gmail.com)
+<p>
+<a href="https://aboutme-4ld9.vercel.app">Portfolio</a> •
+<a href="https://linkedin.com/in/sunny-sarje-315344173">LinkedIn</a> •
+<a href="https://github.com/Novato111">GitHub</a> •
+<a href="mailto:sunnysarje@gmail.com">Email</a>
+</p>
 
 ---
 
-> Interested in backend engineering, distributed systems, AI infrastructure, and building systems that operate reliably at scale.
+<p align="center">
+Interested in backend engineering, distributed systems, AI infrastructure, and building systems that operate reliably at scale.
+</p>
