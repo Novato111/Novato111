@@ -1,57 +1,75 @@
-<h1 align="center">Sunny Sarje</h1>
+# ⚡ Sunny Sarje
 
-<h3 align="center">
-Backend • Distributed Systems • AI Infrastructure • Developer Platforms
-</h3>
+<div align="center">
+
+### Backend Engineering • Distributed Systems • AI Infrastructure • Platform Engineering
 
 <p align="center">
-Building scalable backend systems, AI-powered platforms, and distributed infrastructure.
+Building scalable distributed systems, AI-native infrastructure, and enterprise-grade developer platforms.
 </p>
 
----
+<br/>
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Distributed+Systems+Engineer;AI+Infrastructure+Builder;Backend+%26+Platform+Developer;Building+Scalable+Systems+at+Scale" />
 
-I’m an MCA student at VIT Chennai focused on backend engineering, distributed systems, AI infrastructure, and scalable developer tooling.
+<br/>
 
-I enjoy building systems that deal with:
+<img src="https://skillicons.dev/icons?i=go,python,java,cpp,ts,react,nextjs,fastapi,kafka,redis,postgres,docker,kubernetes,aws" />
 
-* concurrency
-* scalability
-* reliability
-* low latency
-* distributed workloads
-* production deployment
-
-My work primarily revolves around backend platforms, event-driven systems, AI-powered workflows, and high-performance APIs.
+</div>
 
 ---
 
-## Experience
+# 🧠 Engineering Focus
 
-### Software Development Engineer Intern — Arya.ai
+I’m an MCA student at VIT Chennai focused on building enterprise-grade backend systems, AI-powered infrastructure, and distributed platforms designed for scalability, resilience, and operational efficiency.
 
-**Feb 2025 – May 2025**
+My primary interests include:
 
-Worked on distributed AI infrastructure and internal tooling systems.
+- Distributed Systems
+- Backend Infrastructure
+- AI Engineering
+- Event-Driven Architectures
+- Scalable APIs
+- Concurrent Systems
+- Platform Engineering
+- Retrieval-Augmented Generation (RAG)
+- Developer Tooling
+- Cloud-Native Systems
 
-#### Key Contributions
+I enjoy solving engineering problems involving:
 
-* Built backend connector services using FastAPI integrating AWS S3 and SQL-based enterprise data sources into distributed AI processing pipelines.
-
-* Developed scalable API workflows improving ingestion reliability and reducing operational overhead.
-
-* Optimized frontend state synchronization using NUQS resulting in a 30% reduction in render latency.
-
-* Reduced UI-related production support issues by 40% through lifecycle debugging, schema validation, and production fixes.
-
-* Standardized reusable UI systems using Storybook and enforced schema integrity with React Hook Form + TypeScript.
-
-* Worked with modern AI engineering workflows using Claude, Gemini, and prompt-engineering-assisted development pipelines.
+```txt
+Scalability • Reliability • Concurrency • Throughput • Low Latency • Distributed Coordination
+```
 
 ---
 
-# Tech Stack
+# 🏢 Experience
+
+## Software Development Engineer Intern — Arya.ai
+
+**Feb 2025 — May 2025**
+
+Worked on distributed AI infrastructure and internal enterprise tooling systems.
+
+### Key Contributions
+
+- Built backend connector services using FastAPI integrating AWS S3 and SQL enterprise data sources into distributed AI processing pipelines.
+
+- Developed scalable API workflows improving ingestion reliability and reducing operational overhead.
+
+- Optimized frontend state synchronization using NUQS reducing render latency by ~30%.
+
+- Reduced production UI support issues by ~40% through debugging, schema validation, and lifecycle optimization.
+
+- Standardized reusable UI systems with Storybook and enforced schema integrity using React Hook Form + TypeScript.
+
+- Worked extensively with modern AI engineering workflows using Gemini, Claude, and prompt-engineering-assisted development pipelines.
+
+---
+
+# ⚙️ Core Technologies
 
 ## Languages
 
@@ -65,7 +83,7 @@ Worked on distributed AI infrastructure and internal tooling systems.
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,kubernetes,postgres,redis,kafka,linux" />
 </p>
 
-## Frontend
+## Frontend Systems
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript" />
@@ -77,38 +95,69 @@ Worked on distributed AI infrastructure and internal tooling systems.
 <img src="https://skillicons.dev/icons?i=aws,github,git" />
 </p>
 
-## AI / ML
+## AI / ML Infrastructure
 
-* OpenAI APIs
-* Gemini API
-* RAG Pipelines
-* AI Agents
-* Prompt Engineering
-* LLM Applications
+- Gemini API
+- OpenAI APIs
+- RAG Pipelines
+- AI Agents
+- Prompt Engineering
+- LLM Application Systems
+- Vector Search Architectures
 
 ---
 
-# Featured Projects
+# 🚀 Enterprise Projects
 
-## Distributed Logistics Optimizer
+---
 
-### Python • FastAPI • Redis • PostgreSQL • Docker
+# ⚡ CommerceLens AI
 
-🔗 [https://github.com/Novato111/distributed-logistics-optimizer](https://github.com/Novato111/distributed-logistics-optimizer)
+### AI Commerce Intelligence Platform
 
-A distributed systems project focused on asynchronous task orchestration and scalable worker execution.
+### Next.js • FastAPI • PostgreSQL • pgvector • Gemini • Docker
+
+🔗 https://github.com/Novato111/CommerceLens-AI
+
+An enterprise-grade AI commerce intelligence platform leveraging semantic vector search, streaming AI workflows, and retrieval-augmented generation to reinvent product discovery and comparison experiences.
 
 ### Highlights
 
-* Architected a distributed routing engine using FastAPI + Redis producer-consumer patterns.
+- Built an agentic AI commerce workspace with real-time SSE streaming and structured product intelligence payloads.
 
-* Enabled asynchronous handling of 1000+ concurrent job requests under simulated load.
+- Implemented semantic vector retrieval using pgvector + Gemini embeddings for intent-based product discovery.
 
-* Reduced API response latency by ~70% by offloading compute-intensive optimization tasks to background workers.
+- Developed AI-powered review intelligence pipelines synthesizing large-scale customer sentiment into actionable insights.
 
-* Designed a PostgreSQL-backed task queue achieving sub-100ms retrieval latency under concurrent workloads.
+- Designed scalable FastAPI microservices with asynchronous SQLAlchemy workflows and streaming APIs.
 
-* Built Docker Compose-based multi-worker infrastructure improving throughput by ~3x.
+- Built enterprise-grade glassmorphic UI architecture using Next.js App Router + Tailwind CSS.
+
+### Concepts
+
+`AI Infrastructure` `Semantic Search` `RAG Systems` `Streaming Architectures` `Microservices`
+
+---
+
+# 🚚 Distributed Logistics Optimizer
+
+### Python • FastAPI • Redis • PostgreSQL • Docker
+
+🔗 https://github.com/Novato111/distributed-logistics-optimizer
+
+A distributed systems platform focused on asynchronous task orchestration and scalable worker execution pipelines.
+
+### Highlights
+
+- Architected a distributed routing engine using FastAPI + Redis producer-consumer workflows.
+
+- Enabled asynchronous handling of 1000+ concurrent job requests under simulated workloads.
+
+- Reduced API response latency by ~70% by offloading compute-intensive optimization tasks to distributed workers.
+
+- Designed PostgreSQL-backed task queues achieving sub-100ms retrieval latency under concurrent workloads.
+
+- Built Docker Compose-based multi-worker infrastructure improving throughput by ~3x.
 
 ### Concepts
 
@@ -116,49 +165,23 @@ A distributed systems project focused on asynchronous task orchestration and sca
 
 ---
 
-## HEIC Image Processing Service
-
-### Go • libvips • Next.js • Docker • REST APIs
-
-🌐 [https://heictojpgconverter.app](https://heictojpgconverter.app)
-
-A high-performance image conversion platform designed around low-memory processing and privacy-focused architecture.
-
-### Highlights
-
-* Built a high-performance image-processing backend in Go using libvips.
-
-* Implemented in-memory processing workflows without persistent file storage to improve privacy and reduce storage overhead.
-
-* Optimized processing pipelines for concurrent uploads and low-latency transformations.
-
-* Publicly deployed platform serving 500+ users with 2.4K+ tracked events through organic traffic.
-
-* Implemented Dockerized deployment workflows for production-ready infrastructure.
-
-### Concepts
-
-`Go` `Concurrent Processing` `Memory Optimization` `Stateless Architecture` `Backend Performance`
-
----
-
-## Incident AI Platform
+# 🧠 Incident AI Platform
 
 ### TypeScript • Node.js • Apache Kafka • Next.js • LLM/RAG
 
-🔗 [https://github.com/Novato111/incident-ai-platform](https://github.com/Novato111/incident-ai-platform)
+🔗 https://github.com/Novato111/incident-ai-platform
 
-A real-time AI-powered incident monitoring platform designed for distributed environments.
+A real-time AI-powered incident intelligence platform designed for distributed operational environments.
 
 ### Highlights
 
-* Built a real-time event-driven architecture using Apache Kafka for distributed event ingestion.
+- Built event-driven distributed architectures using Apache Kafka for scalable ingestion pipelines.
 
-* Integrated an LLM-based RAG engine for automated anomaly diagnosis and contextual incident analysis.
+- Integrated RAG-powered LLM systems for contextual anomaly diagnosis and incident reasoning.
 
-* Designed scalable O(log n) event-correlation pipelines for efficient anomaly detection.
+- Designed scalable event-correlation workflows optimized for large-scale operational telemetry.
 
-* Built AI-assisted operational workflows leveraging prompt engineering and autonomous AI agent experimentation.
+- Experimented with autonomous AI agent orchestration workflows and AI-assisted operational tooling.
 
 ### Concepts
 
@@ -166,103 +189,171 @@ A real-time AI-powered incident monitoring platform designed for distributed env
 
 ---
 
-## System Design Lab
+# 🖼 HEIC Processing Platform
+
+### Go • libvips • Next.js • Docker • REST APIs
+
+🌐 https://heictojpgconverter.app
+
+A high-performance image processing service focused on low-memory execution and stateless backend architecture.
+
+### Highlights
+
+- Built a concurrent image-processing backend in Go using libvips.
+
+- Designed in-memory processing pipelines eliminating persistent storage overhead.
+
+- Optimized concurrent upload workflows for low-latency transformations.
+
+- Publicly deployed platform serving real-world production traffic with 2.4K+ tracked events.
+
+### Concepts
+
+`Concurrent Processing` `Memory Optimization` `Stateless Systems` `Backend Performance`
+
+---
+
+# 🏗 System Design Labs
 
 ### Next.js 15 • Supabase • Tailwind CSS • Canvas API
 
-🌐 [https://system-design-labs.vercel.app](https://system-design-labs.vercel.app)
+🌐 https://system-design-labs.vercel.app
 
-An interactive distributed systems visualization platform for experimenting with scalable architectures.
-
-### Highlights
-
-* Built a visual distributed architecture simulation platform using Canvas APIs.
-
-* Implemented SPOF and bottleneck detection workflows.
-
-* Added real-time persistence and collaborative editing using Supabase.
-
-* Built concurrent multi-user synchronization and conflict-resolution workflows.
-
-### Concepts
-
-`System Design` `Real-Time Collaboration` `Simulation Systems` `Frontend Engineering`
-
----
-
-## AI Resume Builder
-
-### Next.js • Python • PostgreSQL • AWS • Docker
-
-🌐 [https://ai-resume-buidler.vercel.app](https://ai-resume-buidler.vercel.app)
-
-An AI-powered SaaS platform for ATS-friendly resume generation.
+An interactive distributed systems visualization platform for architecture experimentation and scalability simulations.
 
 ### Highlights
 
-* Built and deployed the platform using AWS, Docker, PostgreSQL, and Gemini API integrations.
+- Built collaborative distributed architecture simulation systems using Canvas APIs.
 
-* Designed schema-validated AI generation workflows using Zod.
+- Implemented SPOF and bottleneck detection workflows.
 
-* Built scalable PostgreSQL schemas for concurrent multi-user sessions.
+- Added real-time persistence and multi-user synchronization using Supabase.
+
+- Designed concurrent collaboration systems with conflict-resolution workflows.
 
 ### Concepts
 
-`SaaS Architecture` `AI Workflows` `Cloud Deployment` `Full Stack Systems`
+`System Design` `Simulation Systems` `Real-Time Collaboration` `Scalable Frontend Systems`
 
 ---
 
-# Blockchain & Web3
+# 📊 Engineering Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### Distributed Systems
+- Event-driven systems
+- Worker orchestration
+- Messaging architectures
+- Concurrent pipelines
+- Distributed coordination
+
+</td>
+<td width="50%">
+
+### AI Infrastructure
+- RAG systems
+- AI agents
+- Semantic retrieval
+- LLM orchestration
+- AI workflow automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Backend Engineering
+- FastAPI ecosystems
+- Scalable APIs
+- PostgreSQL optimization
+- Redis architectures
+- High-performance systems
+
+</td>
+<td width="50%">
+
+### Platform Engineering
+- Cloud-native systems
+- Docker & Kubernetes
+- CI/CD workflows
+- Observability systems
+- Developer tooling
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 Blockchain & Web3
 
 Hands-on exposure to:
 
-* Bitcoin
-* Ethereum
-* Solana
-* Wallet Infrastructure
-* DeFi Protocols
-* NFT Ecosystems
-* On-chain Systems
-* Smart Contract Concepts
-* Ledger Architecture
-* Tokenomics & Market Cycles
+- Bitcoin
+- Ethereum
+- Solana
+- Wallet Infrastructure
+- DeFi Systems
+- Smart Contract Concepts
+- Ledger Architectures
+- On-chain Ecosystems
 
-Interested in backend infrastructure and scalable systems for blockchain applications.
+Interested in backend infrastructure and distributed architectures for blockchain systems.
 
 ---
 
-# Leadership & Achievements
+# 🏆 Leadership & Achievements
 
-* Founded a college coding club mentoring 60+ students in Python, cloud computing, and full-stack development.
+- Founded a college coding club mentoring 60+ students in Python, cloud computing, and full-stack engineering.
 
-* Represented the University Board of Studies helping align the CS curriculum with distributed systems and cloud engineering standards.
+- Represented the University Board of Studies helping align curriculum standards with distributed systems and cloud engineering.
 
-* Solved 300+ DSA problems across LeetCode and competitive programming platforms.
+- Solved 300+ DSA problems across LeetCode and competitive programming platforms.
 
-* Participated in the AI Agent Olympics Hackathon at Milan AI Week 2026 building autonomous AI agent workflows using Gemini and CLI orchestration systems.
-
----
-
-# Certifications
-
-* Microsoft Azure Fundamentals
-* Ethereum Blockchain Developer Certification
-* AI for Everyone — DeepLearning.AI
-* CS50 — Harvard University
+- Participated in the AI Agent Olympics Hackathon at Milan AI Week 2026 building autonomous AI agent workflows using Gemini + CLI orchestration systems.
 
 ---
 
-# Connect
+# 📜 Certifications
 
-<p>
-<a href="https://aboutme-4ld9.vercel.app">Portfolio</a> •
-<a href="https://linkedin.com/in/sunny-sarje-315344173">LinkedIn</a> •
-<a href="https://github.com/Novato111">GitHub</a> •
-<a href="mailto:sunnysarje@gmail.com">Email</a>
-</p>
+- Microsoft Azure Fundamentals
+- Ethereum Blockchain Developer Certification
+- AI for Everyone — DeepLearning.AI
+- CS50 — Harvard University
 
 ---
 
-<p align="center">
-Interested in backend engineering, distributed systems, AI infrastructure, and building systems that operate reliably at scale.
-</p>
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Novato111&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Novato111&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+[Portfolio](https://aboutme-4ld9.vercel.app) •
+[LinkedIn](https://linkedin.com/in/sunny-sarje-315344173) •
+[GitHub](https://github.com/Novato111) •
+[Email](mailto:sunnysarje@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building AI-Native Infrastructure & Distributed Systems
+
+</div>
