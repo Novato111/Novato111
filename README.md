@@ -1,264 +1,76 @@
-# ⚡ Sunny Sarje
+# 🚨 Incident AI Platform
 
 <div align="center">
 
-### Backend Engineering • Distributed Systems • AI Infrastructure • Platform Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,15:0F172A,35:111827,55:312E81,75:7C3AED,90:06B6D4,100:22D3EE&height=260&section=header&text=Incident%20AI%20Platform&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+### Enterprise AI Observability & Incident Intelligence Platform
 
 <p align="center">
-Building scalable distributed systems, AI-native infrastructure, and enterprise-grade developer platforms.
+A distributed AI-native incident monitoring platform built with Kafka, RAG pipelines, anomaly detection systems, and real-time operational intelligence workflows.
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Distributed+Systems+Engineer;AI+Infrastructure+Builder;Backend+%26+Platform+Developer;Building+Scalable+Systems+at+Scale" />
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-Streaming-000000?style=for-the-badge&logo=apachekafka)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/RAG-AI%20Infrastructure-7C3AED?style=for-the-badge)
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=go,python,java,cpp,ts,react,nextjs,fastapi,kafka,redis,postgres,docker,kubernetes,aws" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=1000&lines=Real-Time+Incident+Intelligence;Distributed+Streaming+Architecture;AI-Powered+Operational+Observability;Kafka+Driven+Event+Pipelines;RAG+Enhanced+Incident+Analysis"/>
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-# 🧠 Engineering Focus
+# 🧠 Platform Overview
 
-I’m an MCA student at VIT Chennai focused on building enterprise-grade backend systems, AI-powered infrastructure, and distributed platforms designed for scalability, resilience, and operational efficiency.
+Incident AI Platform is a distributed operational intelligence system designed to simulate enterprise-grade observability and AI-assisted incident response workflows.
 
-My primary interests include:
+The platform combines:
 
-- Distributed Systems
-- Backend Infrastructure
-- AI Engineering
-- Event-Driven Architectures
-- Scalable APIs
-- Concurrent Systems
-- Platform Engineering
+- Real-time Kafka event streaming
+- AI-powered anomaly analysis
 - Retrieval-Augmented Generation (RAG)
-- Developer Tooling
-- Cloud-Native Systems
+- Distributed microservice pipelines
+- Event correlation systems
+- Operational intelligence dashboards
 
-I enjoy solving engineering problems involving:
-
-```txt
-Scalability • Reliability • Concurrency • Throughput • Low Latency • Distributed Coordination
-```
+Built around modern distributed systems principles, the architecture demonstrates how AI can augment incident management, anomaly diagnosis, and operational workflows at scale.
 
 ---
 
-# 🏢 Experience
-
-## Software Development Engineer Intern — Arya.ai
-
-**Feb 2025 — May 2025**
-
-Worked on distributed AI infrastructure and internal enterprise tooling systems.
-
-### Key Contributions
-
-- Built backend connector services using FastAPI integrating AWS S3 and SQL enterprise data sources into distributed AI processing pipelines.
-
-- Developed scalable API workflows improving ingestion reliability and reducing operational overhead.
-
-- Optimized frontend state synchronization using NUQS reducing render latency by ~30%.
-
-- Reduced production UI support issues by ~40% through debugging, schema validation, and lifecycle optimization.
-
-- Standardized reusable UI systems with Storybook and enforced schema integrity using React Hook Form + TypeScript.
-
-- Worked extensively with modern AI engineering workflows using Gemini, Claude, and prompt-engineering-assisted development pipelines.
-
----
-
-# ⚙️ Core Technologies
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,python,java,cpp,ts,js" />
-</p>
-
-## Backend & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,kubernetes,postgres,redis,kafka,linux" />
-</p>
-
-## Frontend Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript" />
-</p>
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,github,git" />
-</p>
-
-## AI / ML Infrastructure
-
-- Gemini API
-- OpenAI APIs
-- RAG Pipelines
-- AI Agents
-- Prompt Engineering
-- LLM Application Systems
-- Vector Search Architectures
-
----
-
-# 🚀 Enterprise Projects
-
----
-
-# ⚡ CommerceLens AI
-
-### AI Commerce Intelligence Platform
-
-### Next.js • FastAPI • PostgreSQL • pgvector • Gemini • Docker
-
-🔗 https://github.com/Novato111/CommerceLens-AI
-
-An enterprise-grade AI commerce intelligence platform leveraging semantic vector search, streaming AI workflows, and retrieval-augmented generation to reinvent product discovery and comparison experiences.
-
-### Highlights
-
-- Built an agentic AI commerce workspace with real-time SSE streaming and structured product intelligence payloads.
-
-- Implemented semantic vector retrieval using pgvector + Gemini embeddings for intent-based product discovery.
-
-- Developed AI-powered review intelligence pipelines synthesizing large-scale customer sentiment into actionable insights.
-
-- Designed scalable FastAPI microservices with asynchronous SQLAlchemy workflows and streaming APIs.
-
-- Built enterprise-grade glassmorphic UI architecture using Next.js App Router + Tailwind CSS.
-
-### Concepts
-
-`AI Infrastructure` `Semantic Search` `RAG Systems` `Streaming Architectures` `Microservices`
-
----
-
-# 🚚 Distributed Logistics Optimizer
-
-### Python • FastAPI • Redis • PostgreSQL • Docker
-
-🔗 https://github.com/Novato111/distributed-logistics-optimizer
-
-A distributed systems platform focused on asynchronous task orchestration and scalable worker execution pipelines.
-
-### Highlights
-
-- Architected a distributed routing engine using FastAPI + Redis producer-consumer workflows.
-
-- Enabled asynchronous handling of 1000+ concurrent job requests under simulated workloads.
-
-- Reduced API response latency by ~70% by offloading compute-intensive optimization tasks to distributed workers.
-
-- Designed PostgreSQL-backed task queues achieving sub-100ms retrieval latency under concurrent workloads.
-
-- Built Docker Compose-based multi-worker infrastructure improving throughput by ~3x.
-
-### Concepts
-
-`Distributed Systems` `Concurrency` `Queues` `Worker Architecture` `Scalable APIs`
-
----
-
-# 🧠 Incident AI Platform
-
-### TypeScript • Node.js • Apache Kafka • Next.js • LLM/RAG
-
-🔗 https://github.com/Novato111/incident-ai-platform
-
-A real-time AI-powered incident intelligence platform designed for distributed operational environments.
-
-### Highlights
-
-- Built event-driven distributed architectures using Apache Kafka for scalable ingestion pipelines.
-
-- Integrated RAG-powered LLM systems for contextual anomaly diagnosis and incident reasoning.
-
-- Designed scalable event-correlation workflows optimized for large-scale operational telemetry.
-
-- Experimented with autonomous AI agent orchestration workflows and AI-assisted operational tooling.
-
-### Concepts
-
-`Kafka` `Streaming Systems` `RAG Pipelines` `Event-Driven Architecture` `AI Observability`
-
----
-
-# 🖼 HEIC Processing Platform
-
-### Go • libvips • Next.js • Docker • REST APIs
-
-🌐 https://heictojpgconverter.app
-
-A high-performance image processing service focused on low-memory execution and stateless backend architecture.
-
-### Highlights
-
-- Built a concurrent image-processing backend in Go using libvips.
-
-- Designed in-memory processing pipelines eliminating persistent storage overhead.
-
-- Optimized concurrent upload workflows for low-latency transformations.
-
-- Publicly deployed platform serving real-world production traffic with 2.4K+ tracked events.
-
-### Concepts
-
-`Concurrent Processing` `Memory Optimization` `Stateless Systems` `Backend Performance`
-
----
-
-# 🏗 System Design Labs
-
-### Next.js 15 • Supabase • Tailwind CSS • Canvas API
-
-🌐 https://system-design-labs.vercel.app
-
-An interactive distributed systems visualization platform for architecture experimentation and scalability simulations.
-
-### Highlights
-
-- Built collaborative distributed architecture simulation systems using Canvas APIs.
-
-- Implemented SPOF and bottleneck detection workflows.
-
-- Added real-time persistence and multi-user synchronization using Supabase.
-
-- Designed concurrent collaboration systems with conflict-resolution workflows.
-
-### Concepts
-
-`System Design` `Simulation Systems` `Real-Time Collaboration` `Scalable Frontend Systems`
-
----
-
-# 📊 Engineering Interests
+# ⚡ Core Capabilities
 
 <table>
 <tr>
 <td width="50%">
 
-### Distributed Systems
-- Event-driven systems
-- Worker orchestration
-- Messaging architectures
-- Concurrent pipelines
-- Distributed coordination
+## 📡 Event Ingestion Pipeline
+
+Scalable ingestion services designed for high-throughput operational event processing.
+
+### Features
+- Kafka-backed event streams
+- Distributed ingestion workers
+- Real-time telemetry processing
+- Asynchronous event pipelines
 
 </td>
 <td width="50%">
 
-### AI Infrastructure
-- RAG systems
-- AI agents
-- Semantic retrieval
-- LLM orchestration
-- AI workflow automation
+## 🧠 AI Incident Intelligence
+
+LLM-powered incident reasoning workflows using contextual retrieval systems.
+
+### Features
+- RAG-enhanced diagnostics
+- AI-generated incident analysis
+- Context-aware reasoning
+- Operational summarization
 
 </td>
 </tr>
@@ -266,22 +78,57 @@ An interactive distributed systems visualization platform for architecture exper
 <tr>
 <td width="50%">
 
-### Backend Engineering
-- FastAPI ecosystems
-- Scalable APIs
-- PostgreSQL optimization
-- Redis architectures
-- High-performance systems
+## 🚨 Anomaly Detection Engine
+
+Real-time anomaly analysis system designed for distributed operational environments.
+
+### Features
+- Pattern-based anomaly scoring
+- Streaming evaluation pipelines
+- Operational alert generation
+- Real-time anomaly monitoring
 
 </td>
 <td width="50%">
 
-### Platform Engineering
-- Cloud-native systems
-- Docker & Kubernetes
-- CI/CD workflows
-- Observability systems
-- Developer tooling
+## 🔗 Correlation Engine
+
+Distributed event-correlation workflows for linking related operational incidents.
+
+### Features
+- Cross-event correlation
+- Contextual incident grouping
+- Temporal event matching
+- Root-cause intelligence
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ⚡ Streaming Infrastructure
+
+Enterprise-style event-driven architecture powered by Kafka.
+
+### Features
+- Pub/Sub workflows
+- Distributed message pipelines
+- Asynchronous service orchestration
+- Event replay capabilities
+
+</td>
+<td width="50%">
+
+## 📊 Operational Dashboard
+
+Modern observability UI designed for incident visibility and operational awareness.
+
+### Features
+- Incident visualization
+- Real-time monitoring workflows
+- AI-assisted operations
+- System health tracking
 
 </td>
 </tr>
@@ -289,71 +136,379 @@ An interactive distributed systems visualization platform for architecture exper
 
 ---
 
-# 🌐 Blockchain & Web3
+# 🏗 Distributed System Architecture
 
-Hands-on exposure to:
+```mermaid
+flowchart LR
 
-- Bitcoin
-- Ethereum
-- Solana
-- Wallet Infrastructure
-- DeFi Systems
-- Smart Contract Concepts
-- Ledger Architectures
-- On-chain Ecosystems
+A[📡 Event Generators]
+B[⚡ Kafka Streams]
+C[🧠 Ingestion Service]
+D[🚨 Anomaly Detection]
+E[🔗 Correlation Engine]
+F[🤖 LLM + RAG Engine]
+G[📊 Frontend Dashboard]
 
-Interested in backend infrastructure and distributed architectures for blockchain systems.
-
----
-
-# 🏆 Leadership & Achievements
-
-- Founded a college coding club mentoring 60+ students in Python, cloud computing, and full-stack engineering.
-
-- Represented the University Board of Studies helping align curriculum standards with distributed systems and cloud engineering.
-
-- Solved 300+ DSA problems across LeetCode and competitive programming platforms.
-
-- Participated in the AI Agent Olympics Hackathon at Milan AI Week 2026 building autonomous AI agent workflows using Gemini + CLI orchestration systems.
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+```
 
 ---
 
-# 📜 Certifications
+# 🧰 Technology Stack
 
-- Microsoft Azure Fundamentals
-- Ethereum Blockchain Developer Certification
-- AI for Everyone — DeepLearning.AI
-- CS50 — Harvard University
+## ⚙️ Backend Infrastructure
+
+- Node.js
+- TypeScript
+- Apache Kafka
+- Distributed Worker Services
+- Event-Driven Architectures
+
+## 🎨 Frontend Platform
+
+- Next.js 15
+- React
+- TypeScript
+- Real-time Dashboard Workflows
+
+## 🧠 AI Systems
+
+- LLM-based Incident Analysis
+- Retrieval-Augmented Generation
+- AI Operational Workflows
+- Contextual Incident Reasoning
+
+## 📡 Distributed Systems
+
+- Pub/Sub Messaging
+- Asynchronous Processing
+- Event Streaming Pipelines
+- Correlation Architectures
 
 ---
 
-# 📈 GitHub Stats
+# 🚀 Platform Services
+
+---
+
+# 📡 Ingestion Service
+
+### `backend/src/services/ingestion`
+
+Responsible for collecting and distributing operational telemetry across the event pipeline.
+
+### Responsibilities
+
+- Event normalization
+- Stream processing
+- Distributed event publishing
+- Telemetry ingestion
+
+### Highlights
+
+```diff
++ Kafka Producer Pipelines
++ Distributed Event Processing
++ Async Stream Workflows
++ High Throughput Design
+```
+
+---
+
+# 🚨 Anomaly Detection Service
+
+### `backend/src/services/anomaly-detector`
+
+Processes incoming telemetry and identifies suspicious operational behavior patterns.
+
+### Capabilities
+
+- Real-time anomaly scoring
+- Threshold evaluation
+- Streaming analysis
+- Alert generation
+
+### Engineering Concepts
+
+```txt
+Distributed Monitoring • Streaming Analysis • Operational Intelligence
+```
+
+---
+
+# 🔗 Correlation Service
+
+### `backend/src/services/correlation`
+
+Links operational incidents together using contextual and temporal analysis workflows.
+
+### Features
+
+- Event clustering
+- Correlation pipelines
+- Incident grouping
+- Context-aware linking
+
+### Engineering Concepts
+
+```txt
+Event Correlation • Distributed Coordination • Operational Context
+```
+
+---
+
+# 🤖 LLM + RAG Service
+
+### `backend/src/services/llm-rag`
+
+AI reasoning layer responsible for contextual operational analysis.
+
+### Features
+
+- Incident summarization
+- Context retrieval
+- AI-assisted diagnostics
+- Intelligent recommendations
+
+### Engineering Concepts
+
+```txt
+RAG Pipelines • LLM Orchestration • AI Operations
+```
+
+---
+
+# ⚡ Kafka Infrastructure
+
+### `backend/src/kafka`
+
+Core streaming backbone powering distributed event workflows.
+
+### Features
+
+- Producer architecture
+- Topic-driven event pipelines
+- Async event orchestration
+- Stream-based service communication
+
+---
+
+# 🖥 Frontend Dashboard
+
+### `frontend/src`
+
+Operational intelligence interface designed for real-time visibility into distributed incidents.
+
+### Features
+
+- Incident monitoring
+- AI-generated analysis
+- Real-time operational workflows
+- State-managed observability dashboards
+
+---
+
+# 🧠 Engineering Highlights
+
+## ⚡ Event-Driven Architecture
+
+The platform is designed around distributed pub/sub communication patterns using Apache Kafka.
+
+### Benefits
+
+- Loose service coupling
+- Scalable event distribution
+- Real-time operational workflows
+- Asynchronous processing pipelines
+
+---
+
+## 🧩 AI-Augmented Operations
+
+AI systems are integrated directly into operational workflows.
+
+### Includes
+
+- Incident summarization
+- Context-aware diagnostics
+- RAG-enhanced reasoning
+- Intelligent operational analysis
+
+---
+
+## 🚀 Distributed Systems Design
+
+The platform demonstrates enterprise distributed systems principles:
+
+- Worker-based processing
+- Stream-oriented architectures
+- Decoupled microservices
+- Operational scalability
+
+---
+
+## 📊 Operational Intelligence UX
+
+The frontend architecture mirrors enterprise observability tooling patterns inspired by:
+
+- Datadog
+- Grafana
+- Elastic Observability
+- OpenAI Platform UX
+
+---
+
+# 📁 Repository Structure
+
+```bash
+incident-ai-platform/
+│
+├── backend/
+│   └── src/
+│       ├── api-gateway/
+│       ├── kafka/
+│       ├── db/
+│       │
+│       └── services/
+│           ├── ingestion/
+│           ├── anomaly-detector/
+│           ├── correlation/
+│           └── llm-rag/
+│
+├── frontend/
+│   └── src/
+│       ├── app/
+│       └── store/
+│
+├── generators/
+│
+└── README.md
+```
+
+---
+
+# 🚀 Quickstart
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone <repository-url>
+
+cd incident-ai-platform
+```
+
+---
+
+# 2️⃣ Install Backend Dependencies
+
+```bash
+cd backend
+
+npm install
+```
+
+---
+
+# 3️⃣ Install Frontend Dependencies
+
+```bash
+cd frontend
+
+npm install
+```
+
+---
+
+# 4️⃣ Start Development Services
+
+Backend:
+
+```bash
+npm run dev
+```
+
+Frontend:
+
+```bash
+npm run dev
+```
+
+---
+
+# 📊 Architectural Concepts Demonstrated
+
+```diff
++ Distributed Systems
++ Event Streaming Architectures
++ Apache Kafka Workflows
++ AI-Augmented Operations
++ RAG Pipelines
++ Real-Time Monitoring Systems
++ Distributed Event Correlation
++ Operational Intelligence Platforms
++ Enterprise Observability UX
++ Scalable Incident Processing
+```
+
+---
+
+# 🌌 Vision
+
+Incident AI Platform explores the future of AI-native operational infrastructure by combining:
+
+- Streaming observability systems
+- Distributed architectures
+- AI-powered diagnostics
+- Real-time operational intelligence
+- Autonomous incident analysis
+
+The project demonstrates how modern AI systems can augment enterprise operational workflows beyond traditional monitoring dashboards.
+
+---
+
+# 🏢 Enterprise Inspiration
+
+This platform draws architectural inspiration from:
+
+- Datadog
+- Grafana
+- Elastic Observability
+- Splunk
+- OpenAI Platform
+- Kubernetes operational tooling
+
+---
+
+# 🤝 Contributing
+
+```bash
+# Fork repository
+
+# Create feature branch
+git checkout -b feature/amazing-feature
+
+# Commit changes
+git commit -m "Add amazing feature"
+
+# Push branch
+git push origin feature/amazing-feature
+```
+
+---
+
+# ⭐ Support
+
+If you found this project valuable, consider giving it a ⭐ on GitHub.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Novato111&show_icons=true&theme=tokyonight&hide_border=true" />
+### ⚡ Building AI-Native Operational Intelligence Systems
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Novato111&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🤝 Connect
-
-<div align="center">
-
-[Portfolio](https://aboutme-4ld9.vercel.app) •
-[LinkedIn](https://linkedin.com/in/sunny-sarje-315344173) •
-[GitHub](https://github.com/Novato111) •
-[Email](mailto:sunnysarje@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Building AI-Native Infrastructure & Distributed Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,20:06B6D4,45:7C3AED,70:312E81,100:020617&height=180&section=footer"/>
 
 </div>
